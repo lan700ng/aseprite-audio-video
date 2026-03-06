@@ -1,0 +1,12 @@
+{
+  "name": "audio-video-export",
+  "displayName": "Audio & Video Export",
+  "description": "You can add audio and export it to video on Linux.",
+  "version": "0.1",
+  "author": "Wei Lang",
+  "contributes": {
+    "scripts":[
+      { "path": "./main.lua" }
+      ]
+  }
+}
